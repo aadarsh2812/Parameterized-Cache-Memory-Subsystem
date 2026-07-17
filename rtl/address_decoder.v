@@ -32,8 +32,7 @@ assign cachereq_offset_dec =
 // Cache Index
 
 assign cachereq_index_dec =
-       cachereq_addr_reg[`CACHE_OFFSET_BITS + `CACHE_INDEX_BITS - 1 :
-                         `CACHE_OFFSET_BITS];
+       cachereq_addr_reg[`CACHE_OFFSET_BITS + `CACHE_INDEX_BITS - 1 : `CACHE_OFFSET_BITS];
 
 // Cache Tag
 
