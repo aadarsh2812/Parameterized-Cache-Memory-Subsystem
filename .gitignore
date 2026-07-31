@@ -1,0 +1,11 @@
+# Waveforms and simulator compilations
+*.vcd
+*.vvp
+a.out
+
+# Vivado simulation directory
+rtl/cache_controller/cache_controller.sim/
+rtl/cache_controller/cache_controller.ip_user_files/
+rtl/cache_controller/cache_controller.hw/
+rtl/cache_controller/cache_controller.runs/
+rtl/cache_controller/.Xil/

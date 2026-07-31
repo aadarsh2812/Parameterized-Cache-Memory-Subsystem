@@ -11,8 +11,15 @@ module valid_array_tb;
     
     wire valid_array_rdata;
 
-    valid_array dut (.*);
-
+valid_array dut (
+    .clk                (clk),
+    .reset              (reset),
+    .valid_array_ren    (valid_array_ren),
+    .valid_array_wen    (valid_array_wen),
+    .cachereq_index_dec (cachereq_index_dec),
+    .valid_array_wdata  (valid_array_wdata),
+    .valid_array_rdata  (valid_array_rdata)
+);
     always #5 clk = ~clk;
 
     integer i;

@@ -15,7 +15,23 @@ module request_register_tb;
     wire [`CACHE_TYPE_WIDTH-1:0]   cachereq_type_reg;
     wire [`CACHE_LEN_WIDTH-1:0]    cachereq_len_reg;
 
-    request_register dut (.*);
+    request_register dut (
+    .clk                 (clk),
+    .reset               (reset),
+    .load                (load),
+
+    .cachereq_addr       (cachereq_addr),
+    .cachereq_data       (cachereq_data),
+    .cachereq_opaque     (cachereq_opaque),
+    .cachereq_type       (cachereq_type),
+    .cachereq_len        (cachereq_len),
+
+    .cachereq_addr_reg   (cachereq_addr_reg),
+    .cachereq_data_reg   (cachereq_data_reg),
+    .cachereq_opaque_reg (cachereq_opaque_reg),
+    .cachereq_type_reg   (cachereq_type_reg),
+    .cachereq_len_reg    (cachereq_len_reg)
+);
     always #5 clk = ~clk;
 
     initial begin

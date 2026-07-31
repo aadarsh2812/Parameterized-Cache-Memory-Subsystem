@@ -6,8 +6,15 @@ module data_array_tb;
     reg  [`CACHE_INDEX_BITS-1:0] cachereq_index_dec;
     reg  [`CACHE_LINE_BITS-1:0] data_array_wdata;
     wire [`CACHE_LINE_BITS-1:0] data_array_rdata;
-
-    data_array dut (.*);
+data_array dut (
+    .clk                (clk),
+    .reset              (reset),
+    .data_array_ren     (data_array_ren),
+    .data_array_wen     (data_array_wen),
+    .cachereq_index_dec (cachereq_index_dec),
+    .data_array_wdata   (data_array_wdata),
+    .data_array_rdata   (data_array_rdata)
+);
     always #5 clk = ~clk;
 
     integer i;
