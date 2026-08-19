@@ -1,4 +1,5 @@
 # Waveforms and simulator compilations
+*.xpr
 *.log
 *.svf
 *.vcd
@@ -11,3 +12,4 @@ rtl/cache_controller/cache_controller.ip_user_files/
 rtl/cache_controller/cache_controller.hw/
 rtl/cache_controller/cache_controller.runs/
 rtl/cache_controller/.Xil/
+rtl/cache_controller/cache_controller.cache/
