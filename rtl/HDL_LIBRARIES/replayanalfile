@@ -1,0 +1,360 @@
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/request_register.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/request_register.v
+cache_config.vh
+request_register
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/address_decoder.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/address_decoder.v
+cache_config.vh
+address_decoder
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/comparator.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/comparator.v
+cache_config.vh
+comparator
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/mux.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/mux.v
+mux2
+mux3
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/tag_array.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/tag_array.v
+cache_config.vh
+tag_array
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/valid_array.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/valid_array.v
+cache_config.vh
+valid_array
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/dirty_array.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/dirty_array.v
+cache_config.vh
+dirty_array
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/data_array.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/data_array.v
+cache_config.vh
+data_array
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/cache_datapath.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/cache_datapath.v
+cache_config.vh
+cache_datapath
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/cache_controller.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/cache_controller.v
+cache_config.vh
+cache_controller
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/cache_top.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/cache_top.v
+cache_config.vh
+cache_top
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/cache_io_wrapper_sky130.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/cache_io_wrapper_sky130.v
+cache_config.vh
+cache_io_wrapper_sky130
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/request_register.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/request_register.v
+cache_config.vh
+request_register
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/address_decoder.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/address_decoder.v
+cache_config.vh
+address_decoder
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/comparator.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/comparator.v
+cache_config.vh
+comparator
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/mux.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/mux.v
+mux2
+mux3
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/tag_array.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/tag_array.v
+cache_config.vh
+tag_array
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/valid_array.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/valid_array.v
+cache_config.vh
+valid_array
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/dirty_array.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/dirty_array.v
+cache_config.vh
+dirty_array
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/data_array.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/data_array.v
+cache_config.vh
+data_array
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/cache_datapath.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/cache_datapath.v
+cache_config.vh
+cache_datapath
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/cache_controller.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/cache_controller.v
+cache_config.vh
+cache_controller
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/cache_top.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/cache_top.v
+cache_config.vh
+cache_top
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/cache_io_wrapper_sky130.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/cache_io_wrapper_sky130.v
+cache_config.vh
+cache_io_wrapper_sky130
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/request_register.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/request_register.v
+cache_config.vh
+request_register
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/address_decoder.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/address_decoder.v
+cache_config.vh
+address_decoder
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/comparator.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/comparator.v
+cache_config.vh
+comparator
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/mux.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/mux.v
+mux2
+mux3
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/tag_array.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/tag_array.v
+cache_config.vh
+tag_array
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/valid_array.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/valid_array.v
+cache_config.vh
+valid_array
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/dirty_array.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/dirty_array.v
+cache_config.vh
+dirty_array
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/data_array.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/data_array.v
+cache_config.vh
+data_array
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/cache_datapath.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/cache_datapath.v
+cache_config.vh
+cache_datapath
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/cache_controller.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/cache_controller.v
+cache_config.vh
+cache_controller
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/cache_top.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/cache_top.v
+cache_config.vh
+cache_top
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/cache_io_wrapper_sky130.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/cache_io_wrapper_sky130.v
+cache_config.vh
+cache_io_wrapper_sky130
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/request_register.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/request_register.v
+cache_config.vh
+request_register
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/address_decoder.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/address_decoder.v
+cache_config.vh
+address_decoder
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/comparator.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/comparator.v
+cache_config.vh
+comparator
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/mux.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/mux.v
+mux2
+mux3
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/tag_array.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/tag_array.v
+cache_config.vh
+tag_array
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/valid_array.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/valid_array.v
+cache_config.vh
+valid_array
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/dirty_array.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/dirty_array.v
+cache_config.vh
+dirty_array
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/data_array.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/data_array.v
+cache_config.vh
+data_array
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/cache_datapath.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/cache_datapath.v
+cache_config.vh
+cache_datapath
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/cache_controller.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/cache_controller.v
+cache_config.vh
+cache_controller
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/cache_top.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/cache_top.v
+cache_config.vh
+cache_top
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/cache_io_wrapper_sky130.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/cache_io_wrapper_sky130.v
+cache_config.vh
+cache_io_wrapper_sky130
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/request_register.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/request_register.v
+cache_config.vh
+request_register
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/address_decoder.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/address_decoder.v
+cache_config.vh
+address_decoder
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/comparator.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/comparator.v
+cache_config.vh
+comparator
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/mux.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/mux.v
+mux2
+mux3
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/tag_array.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/tag_array.v
+cache_config.vh
+tag_array
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/valid_array.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/valid_array.v
+cache_config.vh
+valid_array
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/dirty_array.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/dirty_array.v
+cache_config.vh
+dirty_array
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/data_array.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/data_array.v
+cache_config.vh
+data_array
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/cache_datapath.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/cache_datapath.v
+cache_config.vh
+cache_datapath
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/cache_controller.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/cache_controller.v
+cache_config.vh
+cache_controller
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/cache_top.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/cache_top.v
+cache_config.vh
+cache_top
+set search_path [list . /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/syn_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/dw/sim_ver /home/vlsi/Synopsys/Synopsys_install/Fusion_Compiler/fusioncompiler/W-2024.09-SP2/libraries/syn ] 
+analyze -format verilog  "/home/vlsi/Documents/cache/rtl/cache_io_wrapper_sky130.v" 
+C/home/vlsi/Documents/cache/rtl
+/home/vlsi/Documents/cache/rtl/cache_io_wrapper_sky130.v
+cache_config.vh
+cache_io_wrapper_sky130

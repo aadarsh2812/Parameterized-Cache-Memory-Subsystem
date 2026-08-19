@@ -1,0 +1,144 @@
+ 
+                              Fusion Compiler (TM)
+
+                Version W-2024.09-SP2 for linux64 - Nov 26, 2024
+                           Base Build Date: 11/5/2024
+
+                    Copyright (c) 1988 - 2024 Synopsys, Inc.
+   This software and the associated documentation are proprietary to Synopsys,
+ Inc. This software may only be used in accordance with the terms and conditions
+ of a written license agreement with Synopsys, Inc. All other use, reproduction,
+   or distribution of this software is strictly prohibited.  Licensed Products
+     communicate with Synopsys servers for the purpose of providing software
+    updates, detecting software piracy and verifying that customers are using
+    Licensed Products in conformity with the applicable License Key for such
+  Licensed Products. Synopsys will use information gathered in connection with
+    this process to deliver software updates and pursue software pirates and
+                                   infringers.
+
+ Inclusivity & Diversity - Visit SolvNetPlus to read the "Synopsys Statement on
+            Inclusivity and Diversity" (Refer to article 000036315 at
+                        https://solvnetplus.synopsys.com)
+
+Loading user preference file /home/vlsi/.synopsys_fc_gui/preferences.tcl
+Information: Term was not able to be set up using xterm-256color . Using "xterm" by default instead. (CLE-10)
+fc_shell> source scripts_sky130A/design_setup_sky130.tcl
+Error: could not open script file "scripts_sky130A/design_setup_sky130.tcl" (CMD-015)
+fc_shell> pwd
+/home/vlsi/Documents/cache/scripts_sky130A
+fc_shell> cd ..
+fc_shell> ls
+.  ..  SDC  rtl  scripts_sky130A  sim_cache.fsdb  tb
+fc_shell> source scripts_sky130A/design_setup_sky130.tcl
+INFO: design_setup.tcl loaded
+INFO:   DESIGN     = gpu_top
+INFO:   CORNER     = ss_0p72v_125c
+INFO:   CLK PERIOD = 5.0 ns (200 MHz)
+INFO:   DIE        = 720 x 820 um
+INFO:   CORE       = (100,100) -> (620,720)
+INFO:   UTIL       = 70%
+fc_shell> source scripts_sky130A/01_tech_setup_sky130.tcl
+Error: could not open script file "/home/vlsi/Documents/cache/scripts/design_setup_sky130.tcl" (CMD-015)
+Information: script '/home/vlsi/Documents/cache/scripts_sky130A/01_tech_setup_sky130.tcl'
+                stopped at line 4 due to error. (CMD-081)
+Extended error info:
+
+    while executing
+"source "/home/vlsi/Documents/cache/scripts/design_setup_sky130.tcl""
+    (file "/home/vlsi/Documents/cache/scripts_sky130A/01_tech_setup_sky130.tcl" line 4)
+ -- End Extended Error Info
+fc_shell> cd /home/vlsi/Documents/cache
+fc_shell> gedit scripts_sky130A/01_tech_setup_sky130.tcl
+Error: unknown command 'gedit' (CMD-005)
+fc_shell> nano scripts_sky130A/01_tech_setup_sky130.tcl
+Error: unknown command 'nano' (CMD-005)
+fc_shell> source scripts_sky130A/01_tech_setup_sky130.tcl
+Error: could not open script file "/home/vlsi/Documents/cache/scripts/scripts_sky130A/design_setup_sky130.tcl" (CMD-015)
+Information: script '/home/vlsi/Documents/cache/scripts_sky130A/01_tech_setup_sky130.tcl'
+                stopped at line 4 due to error. (CMD-081)
+Extended error info:
+
+    while executing
+"source "/home/vlsi/Documents/cache/scripts/scripts_sky130A/design_setup_sky130.tcl""
+    (file "/home/vlsi/Documents/cache/scripts_sky130A/01_tech_setup_sky130.tcl" line 4)
+ -- End Extended Error Info
+fc_shell> source scripts_sky130A/01_tech_setup_sky130.tcl
+Error: could not open script file "/home/vlsi/Documents/cache/scripts/scripts_sky130A/design_setup_sky130.tcl" (CMD-015)
+Information: script '/home/vlsi/Documents/cache/scripts_sky130A/01_tech_setup_sky130.tcl'
+                stopped at line 4 due to error. (CMD-081)
+Extended error info:
+
+    while executing
+"source "/home/vlsi/Documents/cache/scripts/scripts_sky130A/design_setup_sky130.tcl""
+    (file "/home/vlsi/Documents/cache/scripts_sky130A/01_tech_setup_sky130.tcl" line 4)
+ -- End Extended Error Info
+fc_shell> source scripts_sky130A/01_tech_setup_sky130.tcl
+INFO: design_setup.tcl loaded
+INFO:   DESIGN     = gpu_top
+INFO:   CORNER     = ss_0p72v_125c
+INFO:   CLK PERIOD = 5.0 ns (200 MHz)
+INFO:   DIE        = 720 x 820 um
+INFO:   CORE       = (100,100) -> (620,720)
+INFO:   UTIL       = 70%
+Error: can't read "TECH_LEF": no such variable
+        Use error_info for more info. (CMD-013)
+Information: script '/home/vlsi/Documents/cache/scripts_sky130A/01_tech_setup_sky130.tcl'
+                stopped at line 10 due to error. (CMD-081)
+Extended error info:
+can't read "TECH_LEF": no such variable
+    while executing
+"list $TECH_LEF $STDCELL_LEF $IO_LEF \
+                $LIB_SS $LIB_FF $LIB_TT"
+    (file "/home/vlsi/Documents/cache/scripts_sky130A/01_tech_setup_sky130.tcl" line 10)
+ -- End Extended Error Info
+fc_shell> source scripts_sky130A/01_tech_setup_sky130.tcl
+============================================================
+ SKY130A CACHE FLOW : 01 TECH SETUP
+============================================================
+INFO: design_setup.tcl loaded
+INFO:   DESIGN     = gpu_top
+INFO:   CORNER     = ss_0p72v_125c
+INFO:   CLK PERIOD = 5.0 ns (200 MHz)
+INFO:   DIE        = 720 x 820 um
+INFO:   CORE       = (100,100) -> (620,720)
+INFO:   UTIL       = 70%
+
+------------------------------------------------------------
+ SKY130A FILE CHECK
+------------------------------------------------------------
+OK: Technology LEF (NOM)
+   /home/vlsi/Documents/PDK/sky130A/libs.ref/sky130_fd_sc_hd/techlef/sky130_fd_sc_hd__nom.tlef
+OK: Technology LEF (MIN)
+   /home/vlsi/Documents/PDK/sky130A/libs.ref/sky130_fd_sc_hd/techlef/sky130_fd_sc_hd__min.tlef
+OK: Technology LEF (MAX)
+   /home/vlsi/Documents/PDK/sky130A/libs.ref/sky130_fd_sc_hd/techlef/sky130_fd_sc_hd__max.tlef
+OK: Standard-cell LEF
+   /home/vlsi/Documents/PDK/sky130A/libs.ref/sky130_fd_sc_hd/lef/sky130_fd_sc_hd.lef
+OK: Standard-cell GDS
+   /home/vlsi/Documents/PDK/sky130A/libs.ref/sky130_fd_sc_hd/gds/sky130_fd_sc_hd.gds
+OK: IO LEF
+   /home/vlsi/Documents/PDK/sky130A/libs.ref/sky130_fd_io/lef/sky130_fd_io.lef
+OK: IO GDS
+   /home/vlsi/Documents/PDK/sky130A/libs.ref/sky130_fd_io/gds/sky130_fd_io.gds
+OK: SS Liberty
+   /home/vlsi/Documents/PDK/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ss_100C_1v40.lib
+OK: FF Liberty
+   /home/vlsi/Documents/PDK/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v76.lib
+OK: TT Liberty
+   /home/vlsi/Documents/PDK/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib
+
+------------------------------------------------------------
+ SKY130A CONFIGURATION
+------------------------------------------------------------
+SKY130A root : /home/vlsi/Documents/PDK/sky130A
+Tech LEF     : /home/vlsi/Documents/PDK/sky130A/libs.ref/sky130_fd_sc_hd/techlef/sky130_fd_sc_hd__nom.tlef
+Stdcell LEF  : /home/vlsi/Documents/PDK/sky130A/libs.ref/sky130_fd_sc_hd/lef/sky130_fd_sc_hd.lef
+IO LEF       : /home/vlsi/Documents/PDK/sky130A/libs.ref/sky130_fd_io/lef/sky130_fd_io.lef
+SS Liberty   : /home/vlsi/Documents/PDK/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ss_100C_1v40.lib
+FF Liberty   : /home/vlsi/Documents/PDK/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__ff_n40C_1v76.lib
+TT Liberty   : /home/vlsi/Documents/PDK/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib
+
+============================================================
+ 01_tech_setup_sky130.tcl COMPLETED
+============================================================
+fc_shell> 
